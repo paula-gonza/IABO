@@ -1,2 +1,0 @@
-# IABO
-Señales_gestos
